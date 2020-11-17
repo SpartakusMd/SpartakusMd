@@ -1,7 +1,17 @@
 # Hi there 👋, I'm Marin
 
 ### About me
-Dedicated full stack developer with proven experience as a DevOps. Strong analytical, facilitation and communication skills, gained through various projects in the field of e-commerce, tourism, healthcare, HoReCa, business automation, CRM - while working closely with other members of the development team as a team leader. Proactive and adaptable, I participated as a mentor for interns during the <a href="https://www.pentalog.com/" title="Pentalog" target="_blank">Pentalog</a> internship program - <a href="https://stagiu.pentalog.ro/#/welcome" title="PentaStagiu" target="_blank">PentaStagiu</a> - and I continued to mentor my colleagues interested in learning PHP. Being highly motivated to share my knowledge, I also made a series of presentations on Database and Git during Pentalog's Web Academy and JS Academy. Strongly committed and interested in supporting the IT community, I joined the team of <a href="https://code4.md/" title="Code4Moldova" target="_blank">Code4Moldova</a>, an NGO focused on coming up with digital solutions to help the society and public institutions from the Republic of Moldova.
+Proactive and adaptable team leader, dedicated full stack developer, DevOps engineer and part time scrum master with strong analytical, facilitation and communication skills I managed to gain through various projects in the field of e-commerce, tourism, healthcare, HoReCa, business automation, and CRM.
+
+I participated as a mentor for interns during the <a href="https://www.pentalog.com/" title="Pentalog" target="_blank">Pentalog</a> internship program - PentaStagiu - and I continued to mentor my colleagues interested in learning PHP. Being highly motivated to share my knowledge, I also made a series of presentations during Pentalog's Web Academy and JS Academy.
+
+Beyond the daily development I perform, I was also involved in solving a security incident that got the customer’s servers and websites infected. Following the incident, I came with a plan of future actions which was gradually improved. In order to optimize the development workflow, I automated various tasks up to the deployment step and beyond. As a lead developer, I was also in charge with proposing plans and implementing optimizations for the existing code, while thinking about solutions for complex business problems. 
+
+On a temporary basis, I have also collaborated with colleagues from other projects to make a full audit of the implemented solutions according to a series of business requirements, but also to make a Code Review and to come with new improvement ideas. The experience gave me the chance to explore new production code and to get new perspectives, ideas, and to see that some business problems can have a different implementation.
+
+Besides, I have also participated in interviewing external candidates, in elaborating <a href="https://skillvalue.com/" title="SkillValue" target="_blank">SkillValue</a> tests for the screening step of the recruitment process, and in doing assessments for my colleagues, coming with recommended study plan at the end. 
+
+Strongly committed and interested in supporting the IT community, I joined the team of <a href="https://code4.md/" title="Code4Moldova" target="_blank">Code4Moldova</a>, an NGO focused on coming up with digital solutions to help the society and public institutions from the Republic of Moldova.
 
 ### Connect with me
 <p align="left">
