@@ -3,6 +3,8 @@
 ### About me
 Proactive and adaptable team leader, dedicated full stack developer, DevOps engineer and part time scrum master with strong analytical, facilitation and communication skills I managed to gain through various projects in the field of e-commerce, tourism, healthcare, HoReCa, business automation, and CRM.
 
+<hr />
+
 I participated as a mentor for interns during the <a href="https://www.pentalog.com/" title="Pentalog" target="_blank">Pentalog</a> internship program - PentaStagiu - and I continued to mentor my colleagues interested in learning PHP. Being highly motivated to share my knowledge, I also made a series of presentations during Pentalog's Web Academy and JS Academy.
 
 Beyond the daily development I perform, I was also involved in solving a security incident that got the customer’s servers and websites infected. Following the incident, I came with a plan of future actions which was gradually improved. In order to optimize the development workflow, I automated various tasks up to the deployment step and beyond. As a lead developer, I was also in charge with proposing plans and implementing optimizations for the existing code, while thinking about solutions for complex business problems. 
